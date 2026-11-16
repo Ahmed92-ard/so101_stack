@@ -1,0 +1,15 @@
+# ROS 2 / colcon generated output
+**/build/
+**/install/
+**/log/
+
+# Python generated files
+**/__pycache__/
+*.py[cod]
+
+# Local environment and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
